@@ -58,6 +58,10 @@ Download code from github. Using XCode, simply press cmd+r to run app simulation
     b)Timer: rather than giving the user an infinite amount of time, I would have loved to implement a timer feature that would add pressure onto the user and give the app more of a game-like feel. This time could decrease while difficulty level increases
     
 # Testing:
+-XCode has a unitTesting ability to test certain functions in the code.
+Here I create a test to make sure that my next question isnt a repeated one. I had difficulty with this portion until I completed the test.
+
+-Within the code itself, I check that the game consists of 10 questios using an if/else statement in checkForNextQuestion Function
 
 # Conclusion:
 
